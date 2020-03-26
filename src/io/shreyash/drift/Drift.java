@@ -14,7 +14,8 @@ import io.shreyash.drift.core.GestureAnalyser;
                     description = "Gesture handler extension for MIT App Inventor 2 and its clones like Kodular.", 
                     iconName = "", 
                     nonVisible = true, 
-                    version = 1)
+                    version = 1,
+		    versionName = 1.0.0)
 
 public class Drift extends AndroidNonvisibleComponent implements Component {
 
