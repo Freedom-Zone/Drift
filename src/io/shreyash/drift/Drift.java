@@ -15,7 +15,7 @@ import io.shreyash.drift.core.GestureAnalyser;
                     iconName = "", 
                     nonVisible = true, 
                     version = 1,
-		    versionName = 1.0.0)
+		    versionName = "1.0.0")
 
 public class Drift extends AndroidNonvisibleComponent implements Component {
 
