@@ -84,7 +84,7 @@ Params           |  []()
 
 ### Swiped Left
 
-![](/blocks/event_swpddlft.png)
+![](/blocks/event_swpdlft.png)
 
 _**\(** Number `id`, Number `fingers`, Number `duration`, Number `distance`, Number `speed`**\)**_ 
 
